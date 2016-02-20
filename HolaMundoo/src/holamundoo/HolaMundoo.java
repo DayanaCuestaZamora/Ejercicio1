@@ -15,7 +15,8 @@ public class HolaMundoo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Procesos add,comit,push,pull");
+    
     }
     
 }
